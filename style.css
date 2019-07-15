@@ -1,0 +1,26 @@
+h1 {
+    color: cornflowerblue;
+}
+
+img {
+    height: 100px;
+    width: 150px;
+}
+
+h4 {
+
+}
+
+body {
+    padding: 20px;
+}
+
+p {
+    border: 3px solid cornflowerblue;
+    margin: 10px;
+    padding: 5px;
+}
+
+span {
+    color: red;
+}
